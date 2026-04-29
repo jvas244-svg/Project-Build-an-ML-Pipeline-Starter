@@ -179,3 +179,14 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+## Weights & Biases Project
+
+You can view the full ML pipeline, experiment tracking, artifacts, and lineage here:
+
+https://wandb.ai/jvas244-western-governors-university/nyc_airbnb
+
+## Project Repository
+
+GitHub Repository:
+https://github.com/jvas244-svg/Project-Build-an-ML-Pipeline-Starter
